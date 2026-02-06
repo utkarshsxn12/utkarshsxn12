@@ -6,8 +6,11 @@
     alt="Typing Animation"
   />
 </p>
-# 💫 About Me:
-🔭 Currently working on<br>DSA-driven software projects, full-stack web applications, and real-world problem-solving systems.<br><br>👯 Open to collaborate on<br>Software development projects, open-source contributions, and scalable web applications.<br><br>🤝 Looking for guidance in<br>System design fundamentals, backend optimization, and industry-level coding practices.<br><br>🌱 Currently learning<br>Advanced Data Structures & Algorithms, Java, SQL Server, and full-stack development.<br><br>💬 Ask me about<br>C++, Java, DSA problem solving, project architecture, and GitHub best practices.<br><br>⚡ Fun fact<br>I focus on writing clean, efficient code and building projects that are practical, scalable, and resume-ready.
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-purple?style=for-the-badge"/>
+</p>
 
 
 ## 🌐 Socials:
