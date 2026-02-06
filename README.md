@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Utkarsh+Saxena;Aspiring+Software+Engineer;DSA+%26+Problem+Solving"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Utkarsh+Saxena;"
     alt="Typing Animation"
   />
 </p>
