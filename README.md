@@ -1,11 +1,5 @@
-<h1 align="center">Utkarsh Saxena</h1>
+<h1 align="center">Utkarsh Saxena!</h1>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Utkarsh+Saxena;"
-    alt="Typing Animation"
-  />
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+%7C+Problem+Solving+%7C+Systems;Building+Scalable+Applications" />
 </p>
