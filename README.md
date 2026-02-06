@@ -7,10 +7,13 @@
   />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-purple?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+%7C+Problem+Solving+%7C+Systems;Building+Scalable+Applications" />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750019-0f7d8f4b-4e9c-4a1c-bd0b-90d3b6a3d89b.gif" width="380"/>
+</p>
+
 
 
 ## 🌐 Socials:
